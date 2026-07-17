@@ -1,5 +1,7 @@
-/* Force override al-folio theme color to OU Crimson */
-html body :root {
+/* Override al-folio pink with OU Crimson */
+:root,
+:root[data-theme="light"],
+html {
   --global-theme-color: #841617 !important;
   --global-hover-color: #841617 !important;
   --global-hover-text-color: #ffffff !important;
@@ -10,7 +12,7 @@ h1.header-bar span {
   font-weight: 400 !important;
 }
 
-a, a:visited {
+a {
   color: #841617 !important;
 }
 
@@ -23,5 +25,9 @@ a:hover {
 }
 
 .social .contact-icons a:hover i::before {
+  color: #841617 !important;
+}
+
+.profile .more-info {
   color: #841617 !important;
 }
