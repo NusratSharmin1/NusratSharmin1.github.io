@@ -1,33 +1,18 @@
-/* Override al-folio pink with OU Crimson */
-:root,
-:root[data-theme="light"],
-html {
-  --global-theme-color: #841617 !important;
-  --global-hover-color: #841617 !important;
-  --global-hover-text-color: #ffffff !important;
-  --global-code-bg-color: rgba(132, 22, 23, 0.05) !important;
-}
-
 h1.header-bar span {
   font-weight: 400 !important;
 }
 
-a {
+a, a:visited,
+.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link,
+.profile .more-info,
+.social .contact-icons a:hover i::before,
+footer.fixed-bottom a:hover,
+blockquote,
+code,
+pre {
   color: #841617 !important;
 }
 
 a:hover {
-  color: #841617 !important;
-}
-
-.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
-  color: #841617 !important;
-}
-
-.social .contact-icons a:hover i::before {
-  color: #841617 !important;
-}
-
-.profile .more-info {
   color: #841617 !important;
 }
