@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: <span style="font-weight: normal">Nusrat</span>
+first_name: Nusrat
 middle_name:
-last_name: <span style="font-weight: normal">Sharmin</span>
+last_name: Sharmin
 contact_note: >
   The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
