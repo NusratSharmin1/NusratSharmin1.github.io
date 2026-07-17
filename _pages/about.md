@@ -12,7 +12,6 @@ profile:
     <p><a href="https://www.ou.edu/content/cas/economics">Department of Economics</a></p>
     <p>308 Cate Center 1</p>
     <p>Norman, OK 73019</p>
-    <p>Nusrat.Sharmin-1@ou.edu</p>
 
 selected_papers: false
 social: true
