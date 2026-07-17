@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: PhD Student, Department of Economics, University of Oklahoma
 
