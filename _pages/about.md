@@ -6,7 +6,7 @@ subtitle: PhD Student, <a href='https://www.ou.edu/cas/economics'>Department of 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false
   more_info: >
     <p>Department of Economics</p>
