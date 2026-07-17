@@ -1,0 +1,13 @@
+:root {
+  --global-theme-color: #841617 !important;
+  --global-hover-color: #841617 !important;
+  --global-hover-text-color: #841617 !important;
+}
+
+a {
+  color: #841617 !important;
+}
+
+a:hover {
+  color: #841617 !important;
+}
