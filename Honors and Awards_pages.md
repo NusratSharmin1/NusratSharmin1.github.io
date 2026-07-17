@@ -1,13 +1,11 @@
 ---
 layout: page
-title: awards
-permalink: /awards/
+title: Honors and Awards
+permalink: /Honors and Awards/
 description:
 nav: true
 nav_order: 5
 ---
-
-## Honors and Awards
 
 **Dodge Family Graduate Fellowship** — University of Oklahoma (2024–2029)
 
