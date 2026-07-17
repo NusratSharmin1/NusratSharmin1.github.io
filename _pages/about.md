@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about
+permalink: /
 subtitle: PhD Student, Department of Economics, University of Oklahoma
 
 profile:
