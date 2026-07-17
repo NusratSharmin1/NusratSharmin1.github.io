@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a second-year PhD student in Economics at the University of Oklahoma. My research lies at the intersection of development economics, environmental economics, and health economics, with a focus on how environmental shocks shape human welfare and economic outcomes.
+I am a third-year PhD student in Economics at the University of Oklahoma. My research lies at the intersection of development economics, environmental economics, and health economics, with a focus on how environmental shocks shape human welfare and economic outcomes.
 
 One strand of my work examines how cyclone exposure affects infant mortality and child health investment in Bangladesh, using DHS survey data matched to IBTrACS cyclone tracks. I am also a Graduate Research Assistant on an NSF-funded project — [*Good Fire: Economics of Fire-Based Land Treatments*](https://www.boisestate.edu/goodfire/) — where I work under the supervision of Co-PI [Dr. Jayash Paudel](https://www.jayash-paudel.com/). The project examines the economic consequences of prescribed fire and managed wildland use across the Western United States.
 
