@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, <a href='https://www.ou.edu/cas/economics'>Department of Economics</a>, University of Oklahoma
+subtitle: PhD Student, Department of Economics, University of Oklahoma
 
 profile:
   align: right
