@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Honors and Awards
-permalink: /Honors and Awards/
+title: Awards
+permalink: /Awards/
 description:
 nav: true
 nav_order: 5
