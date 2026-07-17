@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false
- more_info: >
+  more_info: >
     <p><a href="https://www.ou.edu/content/cas/economics">Department of Economics</a></p>
     <p>308 Cate Center Drive</p>
     <p>Cate 1</p>
