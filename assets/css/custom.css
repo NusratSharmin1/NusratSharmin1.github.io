@@ -1,4 +1,5 @@
-:root {
+/* Force override al-folio theme color to OU Crimson */
+html body :root {
   --global-theme-color: #841617 !important;
   --global-hover-color: #841617 !important;
   --global-hover-text-color: #ffffff !important;
@@ -9,7 +10,7 @@ h1.header-bar span {
   font-weight: 400 !important;
 }
 
-a {
+a, a:visited {
   color: #841617 !important;
 }
 
@@ -17,7 +18,7 @@ a:hover {
   color: #841617 !important;
 }
 
-.navbar.navbar-light .navbar-nav .nav-item.active>.nav-link {
+.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   color: #841617 !important;
 }
 
