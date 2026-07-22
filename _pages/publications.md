@@ -23,7 +23,7 @@ This paper studies the effects of Bangladesh's 2011 maternity leave reform on fe
 
 **Economics of Fire-Based Land Treatments**
 
-Wildfire is one of the most economically consequential natural hazards in the Western United States. I am part of a research team working on multiple papers investigating whether and how prescribed fire can serve as an effective tool for reducing these economic costs at the community level.
+Wildfire is one of the most economically consequential natural hazards in the United States. I am part of a research team working on multiple papers investigating whether and how prescribed fire can serve as an effective tool for reducing these economic costs at the community level.
 
 ---
 
