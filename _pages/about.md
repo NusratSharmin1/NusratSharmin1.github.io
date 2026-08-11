@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false
   more_info: >
-    <p>Department of Economics</p>
+    <p><a href="https://www.ou.edu/content/cas/economics">Department of Economics</a></p>
     <p>308 Cate Center Drive</p>
     <p>Cate 1</p>
     <p>Norman, OK 73019</p>
